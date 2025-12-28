@@ -1,0 +1,9 @@
+
+1). New String Methods added - isBlank() , lines(), strip(), stripLeading(), stripTrailing(), repeat(int count)
+2). Local-Variable Syntax for Lambda (var)
+3). New File Methods  - Files.readString() & Files.writeString()
+4). New Method Added in Optional Class  - isEmpty()
+5). HTTP Client API (Standard) Java 11 officially includes HTTP Client (earlier incubator).  - Supports HTTP/2, Async calls, WebSockets
+6). Launch Single-File Source Code  - Run Java file without compiling.
+7). New Collection Method: toArray(IntFunction)
+8). Unicode 10 Support  - Java 11 supports Unicode 10, including new emojis 😄

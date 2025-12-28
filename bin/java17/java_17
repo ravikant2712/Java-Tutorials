@@ -1,0 +1,7 @@
+
+1). Sealed Classes  - Sealed classes restrict which classes can extend them.
+2). Pattern Matching for instanceof (Stable) - No need for explicit casting.
+3). Records (Stable) - Records are immutable data carriers with less boilerplate.
+4). Enhanced switch (Preview in Java 17)  -  Supports expressions, arrows, and multiple labels.
+5). Text Blocks (Stable)  - Multi-line strings without messy concatenation.
+6). New Random Generator API
