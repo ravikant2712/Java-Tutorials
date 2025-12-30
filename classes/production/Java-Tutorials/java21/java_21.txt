@@ -1,0 +1,9 @@
+
+1). Virtual Thread - Lightweight Thread for high-concurrency apps
+2). Record Pattern - Pattern matching directly with records.
+3). Pattern Matching for switch - Switch works with types and conditions.
+4). String Templates - Safer and cleaner string formatting.
+5). Sequenced Collections - Uniform way to access first & last elements.
+6). Scoped Values - Better alternative to ThreadLocal.
+7). Structured Concurrency - Manage multiple tasks as a single unit.
+8). Unnamed Patterns & Variables - Ignore unused variables.
